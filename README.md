@@ -1,7 +1,7 @@
 # PyPoll with Python
 
 ## Overview of Project
-Tom, an employee for the Colorado Board of Elections, has requested our assistance in completeing an election audit of the recent congressional election in Colorado. We have been tasked with reporting the total number of votes cast, the total number and percentage of votes for each candidate, and the winner of the election based on the popular vote. Tom has also asked that we calculate voter turnout for each county and determine the county with the highest turnout. The purpose of this project is not only to audit this recent election, but create a script that can be used to report on elections as a whole. 
+Tom, an employee for the Colorado Board of Elections, has requested my assistance in completeing an election audit of the recent congressional election in Colorado. I have been tasked with reporting the total number of votes cast, the total number and percentage of votes for each candidate, and the winner of the election based on the popular vote. Tom has also asked that I calculate voter turnout for each county and determine the county with the highest turnout. The purpose of this project is not only to audit this recent election, but create a script that can be used to report on elections as a whole. 
 
 ## Results
 Based on the election analysis, we can report that: 
@@ -25,6 +25,7 @@ Based on the election analysis, we can report that:
     - Diana DeGette recieved 73.8% of the votes cast, which was a total of 272,892 votes.
 
 - The winner of the Colorado Congressional Election was Diana DeGette, recieving 272,892 votes and 73.8% of the votes cast. 
+
 ![](resources/election-results.png)
 
 ## Summary 
