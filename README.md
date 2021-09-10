@@ -30,3 +30,5 @@ Based on the election analysis, we can report that:
 
 ## Summary 
 
+This Election Aduit script is incredilbily versitle and with the correct modifications, can be used to provide analysis for elections in the coming years. In this project, we expanded upon our exsisitng script to include voter turnout within each county. This added anaylsis can be useful for future elections to plan campaign trails, In my opinion, this addition is amoung the many ways that modifying the code can aid in the extraction of important data within an election. 
+If 
